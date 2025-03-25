@@ -1,0 +1,10 @@
+nbrs(nums,target = 9):
+numbers_map = {}
+for a, num in eneumerate (nbrs):
+    complement = target-num
+    if completment in numbers_map:
+        return[numbrs_map[complement], a]
+        numbers_map [num] = a
+        return None
+        nbrs = [3,1,5,2,4]
+        print (Sums(nbrs))
